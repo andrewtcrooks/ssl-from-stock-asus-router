@@ -3,7 +3,7 @@ version: 1.0.0
 slug: "update_ssl_cert_from_stock_asus_router_with_android_support"
 description: "An Add-on that help refresh the SSL certificate under the /SSL folder from Stock Asus Router DDNS"
 startup: once
-image: ghcr.io/ricardoaveloso/refresher-ssl-cert-from-stock-asus-ddns-router-{arch}
+image: ghcr.io/andrewtcrooks/ssl-cert-from-stock-asus-ddns-router-{arch}
 arch:
   - armhf
   - armv7

@@ -1,5 +1,5 @@
-name: "Refresh SSL Cert From Stock Asus DDNS Router"
-version: 0.1.0
+name: "Update SSL Cert From Stock Asus DDNS Router"
+version: 1.0.0
 slug: "update_ssl_cert_from_stock_asus_router_with_android_support"
 description: "An Add-on that help refresh the SSL certificate under the /SSL folder from Stock Asus Router DDNS"
 startup: once
